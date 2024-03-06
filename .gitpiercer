@@ -1,1 +1,7 @@
-planetrenox
+# required gitpiercer version
+v=0
+main=CHAINS
+cmd_universal=npx cmd
+cmd_fetch=curl https://github.io/weird/data
+CHAINS=CMD_fetch>CMD_universal>path/to/script.sh
+USERNAME=yourUsername
